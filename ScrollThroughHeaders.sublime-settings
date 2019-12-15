@@ -1,0 +1,7 @@
+{
+    // how do you define the headers
+    "header_regex": "#+\n# [A-z]+.+\n#+\n",
+
+    // find title inside the header, put the title into parenthesis
+    "title_regex": "# ([A-z]+.+)\n"
+}
